@@ -1,7 +1,7 @@
 <!-- README.md para GitHub - Perfil Profesional en la Empresa -->
 
 <h1 align="center">🚀 Getsemani Ávila Quezada (@Gessyavila91)</h1>
-<h3 align="center">Jefe de Aplicaciones | Full Stack Dev | IT Strategist | Líder Técnico en [Nombre de tu empresa]</h3>
+<h3 align="center">Jefe de Aplicaciones | Full Stack Dev | IT Strategist | Líder Técnico en Almex</h3>
 
 <p align="center">
   <a href="https://github.com/Gessyavila91">
